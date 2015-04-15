@@ -1,0 +1,18 @@
+package com.ibm.developer;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+
+    public int void veryComplicatedMethod()
+    {
+        return 42;
+    }
+}
