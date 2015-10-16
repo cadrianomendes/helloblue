@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy todir="C:\BlueMix\Workspace\developerWorksMaven\target/bluemix-todo-app">
+    <fileset dir="C:\BlueMix\Workspace\developerWorksMaven/frontend"/>
+  </copy>
+</target>
+</project>
